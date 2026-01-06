@@ -1,8 +1,3 @@
-# AI-Hangman-Game
-A simple AI-based Hangman game made in Python. Includes difficulty levels and smart AI hints.
-
-
-
 # AI Hangman Game
 
 This is a **simple Hangman game** made in Python for a university AI project.  
